@@ -1,4 +1,4 @@
-![image alt]([ Aquí escriben el permalink de la imagen ](https://github.com/dillanbn/dillanbn/blob/a4d91d2cb963798aadb012fc055657788fa0c62c/Banner.png)
+![image alt](https://github.com/dillanbn/dillanbn/blob/a4d91d2cb963798aadb012fc055657788fa0c62c/Banner.png)
 
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
